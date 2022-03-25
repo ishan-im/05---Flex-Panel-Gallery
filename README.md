@@ -1,1 +1,1 @@
-# 05---Flex-Panel-Gallery
+# Flex-Panel-Gallery
